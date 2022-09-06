@@ -1,0 +1,63 @@
+header{
+    padding: 80px rgb(98, 117, 139);
+    border: rgb(74, 97, 156) solid;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #7fb7d1;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+
+}
+
+body {
+    background-color: #5996aa;
+}
+
+.container{
+    padding: 60px rgb(224, 167, 210);
+    border: rgb(74, 97, 156) solid;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #7fb7d1;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+button{
+    padding: 20px;
+    border: rgb(74, 97, 156) solid;
+    border-radius: 0px;
+    margin: 20px;
+}
+
+input{
+    padding: 20px;
+    border: rgb(74, 97, 156) solid;
+    border-radius: 0px;
+    margin: 20px;
+
+}
+
+footer{
+    padding: 80px rgb(86, 153, 184);
+    border: rgb(74, 97, 156) solid;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #7fb7d1;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.teorema{
+    text-align: center;
+    align-content: center;
+    align-self: center;
+    justify-content: center;
+    justify-items: center;
+}
