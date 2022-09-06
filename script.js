@@ -16,4 +16,4 @@ const excluir = function(){
 }
 
 
-// Battistella, para o alert aparecer é preciso clicar duas vezes no button calcular, desculpa por esse bug :(
+// Battistella, para o resultado do Math.pow aparecer é preciso clicar duas vezes no button calcular, desculpa por esse bug :(
